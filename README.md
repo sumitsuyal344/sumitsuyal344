@@ -40,7 +40,7 @@ Currently working as a software engineer -reactjs in matrix marketers in Gurugra
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-plastic&logo=json&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-plastic&logo=php&logoColor=white)
+
 
 ### 🧰 Frameworks & Libraries
 
@@ -70,18 +70,13 @@ Currently working as a software engineer -reactjs in matrix marketers in Gurugra
 
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-plastic&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-plastic&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white)
-![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-plastic&logo=cpanel&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-plastic&logo=xampp&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-plastic&logo=babel&logoColor=white)
 ![GoDaddy](https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-plastic&logo=godaddy&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-plastic&logo=webpack&logoColor=white)
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-plastic&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-plastic&logo=phpmyadmin&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white)
 
 
