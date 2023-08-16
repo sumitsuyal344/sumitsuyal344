@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ShubhamJoshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit Suyal" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sumitsuyal344&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit Suyal" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Sumit Suyal!]([https://github.com/sumitsuyal344/](https://github.com/sumitsuyal344)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
@@ -6,16 +6,16 @@
 
 An enthusiastic and dynamic professional Software developer with rich and diversified, nearly 3.5 years of experience in design and development of Micro services application using **JS , ReactJS, NextJS, Node, Firebase, graphql**.
 
-Currently working as a Developer in Health Ministry on NPHO (National Public Health Observatory) Project.
-• Integrating Multiple Health Portals into Dashboards on single Platform.
-• Dashboard development using **JavaScript, Highcharts, HTML, CSS, Ramda JS, Next Js  and implemented Maps** as per client requirement.
+Currently working as a software engineer -reactjs in matrix marketers in Gurugram, Haryana
+• Implementing different UI and functionality using tech stack ,html,css,reactJs,nextJs ,materialUi , bootstrap and redux tookit.
+• Developing system using **React Js, NextJS, HTML, CSS, JS, Material UI** as per client requirement.
 
 
 ---
 
 ### :blush: Talking about Personal Stuff:
 
-<img align="right" height="250" width="400" alt="Shubham Joshi" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+<img align="right" height="250" width="400" alt="Sumit Suyal" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
@@ -24,14 +24,12 @@ Currently working as a Developer in Health Ministry on NPHO (National Public Hea
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ShubhamJoshi1998).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/ShubhamJoshi1998).
 
 
 🔗 Grab a link! Let's talk.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/ShubhamJoshi1998)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://twitter.com/shivam306joshi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-joshi-827b66165/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/sumitsuyal344)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-suyal-0bb133208/)
 
 ## 💻 Things I code with
 
@@ -111,7 +109,7 @@ const bio = {
 
 <p align="center">
   <img width="378em" src="https://github-readme-stats.vercel.app/api?username=sumitsuyal344&show_icons=true&locale=en&theme=radical"                alt="sumitsuyal344"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJoshi1998&theme=radical" alt="sumitsuyal344" />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsuyal344&theme=radical" alt="sumitsuyal344" />
 </p>
 
 <p align="center"> 
